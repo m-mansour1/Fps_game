@@ -3,7 +3,7 @@ includes:
 - Movement and rotation
 - Usage of the Terrain tool in Unity
 - Collisions and Triggers.
-- Populating the game with assets from online stores such as the Unity Asset Store
+- Assets from online stores such as the Unity Asset Store
 - Instantiating and Destroying game objects.
 - Particle Systems
 - UI in Unity
